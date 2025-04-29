@@ -5,7 +5,7 @@ Welcome to the SpotMap Repo!
 Some Infos real quick.
 
 The App is entirely built on Swift Playground, using only the Swift Programming language & the SwiftUI.
-This is basically my first real Project in Swift and i'm too poor for a mac so we I use Swift Playground. 
+This is basically my first real Project in Swift and i'm too poor for a mac so I use Swift Playground. 
 
 it's a way for me to learn swift and to make a cool app!
 
